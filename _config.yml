@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Skill Issues Enthusiast # the main title
+title: Uday # the main title
 
-tagline: A blog where I write about my learnings on AI/ML and Mobile App Development. # it will display as the subtitle
+tagline: Skill Issues Enthusiast
 
 description: >- # used by seo meta and the atom feed
   mobile app development, AI/ML , artificial intelligence, machine learning
