@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Uday&#39;s Blog</title>
+    <link>https://vadlamaniuday.github.io/posts/</link>
+    <description>Recent content in Posts on Uday&#39;s Blog</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Dec 2025 10:56:04 +0530</lastBuildDate>
+    <atom:link href="https://vadlamaniuday.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome</title>
+      <link>https://vadlamaniuday.github.io/posts/my-first-post/</link>
+      <pubDate>Sun, 14 Dec 2025 10:56:04 +0530</pubDate>
+      <guid>https://vadlamaniuday.github.io/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Hello, I&amp;rsquo;m Uday, welcome to my side of the internet :) . Making this blog just so that I can be consistent with my learnings and post my findings and/or learnings here. Mostly I will write about Machine learning and python development and some of the neat stuff that I learnt.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
