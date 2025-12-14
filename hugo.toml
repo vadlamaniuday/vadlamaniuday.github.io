@@ -1,9 +1,8 @@
-baseURL = "https://vadlamaniuday.github.io/my-blog/"
+baseURL = "https://vadlamaniuday.github.io/"
 languageCode = "en-us"
 title = "Uday's Blog"
 theme = "PaperMod"
 enableRobotsTXT = true
-googleAnalytics = "G-XXXXXXXXXX"
 
 [params]
   description = "Thoughts on tech, data, and engineering"
