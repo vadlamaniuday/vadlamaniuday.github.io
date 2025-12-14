@@ -1,4 +1,4 @@
-baseURL = "https://vadlamaniuday.github.io/"
+baseURL = "https://vadlamaniuday.github.io/my-blog/"
 languageCode = "en-us"
 title = "Uday's Blog"
 theme = "PaperMod"
