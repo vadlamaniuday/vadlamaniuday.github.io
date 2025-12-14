@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Uday's Blog"
 theme = "PaperMod"
 enableRobotsTXT = true
-
+googleAnalytics = "G-G8ZHXJ84GK"
 [params]
   description = "Thoughts on tech, data, and engineering"
   author = "Uday"
