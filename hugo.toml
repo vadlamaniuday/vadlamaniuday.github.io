@@ -1,0 +1,35 @@
+baseURL = 'https://vadlamaniuday.github.io/'
+locale = 'en-us'
+title = "Vadlamani Uday's Blog"
+theme = 'paper'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+[params]
+  # color style
+  color = 'linen'                           # linen, wheat, gray, light
+
+  # header social icons
+  twitter = 'ekpaavdhaniya'               # twitter.com/YOUR_TWITTER_ID
+  github = 'vadlamaniuday'                 # github.com/YOUR_GITHUB_ID
+  linkedin = 'vadlamani-uday-095755208/'             # linkedin.com/in/YOUR_LINKEDIN_ID
+
+  # home page profile
+  avatar = 'https://gravatar.com/avatar/0feda4757b81a0c0c3feede95495a8fe4b7823d66c45de9a46c7969fa3a26a31?v=1776483855000&size=256&d=initials'                 # gravatar email or image url
+  name = 'Vadlamani Uday'
+  bio = 'Converting unstructured data into actionable insights.'
+
+
+  # misc
+  disableHLJS = false                        # disable highlight.js
+  disablePostNavigation = false              # disable post navigation
+  monoDarkIcon = true                       # show monochrome dark mode icon
+  gravatarCdn = 'GRAVATAR_CDN_LINK'         # e.g. 'https://cdn.v2ex.com/gravatar/'
+  math = true                               # enable KaTeX math typesetting globally
+  localKatex = true                        # use local KaTeX js/css instead of CDN
+  graphCommentId = "YOUR_GRAPH_COMMENT_ID"  # use graph comment (disqus alternative)
+  favicon = "favicon.ico"                   # customize the default favicon
+  appleTouchIcon = "apple-touch-icon.png"   # customize the default Apple touch icon
+
+
